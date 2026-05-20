@@ -107,7 +107,7 @@ def _layout(title: str, body: str) -> str:
     <div class="wrap top">
       <div class="brand">
         <b>Сервис мониторинга серверов</b>
-        <span class="muted">v 0.2</span>
+        <span class="muted">v 0.3</span>
       </div>
       <nav class="nav">
         <a class="pill" href="/ui" title="Список серверов и их статус">Главная</a>
